@@ -9,4 +9,4 @@
 👔 [linkedin][linkedin]
 
 [instagram]: https://instagram.com/madhusree.m.p
-[linkedin]: https://linkedin.com/in/madhusreemp
+[linkedin]: https://linkedin.com/in/madhusree-m-p
