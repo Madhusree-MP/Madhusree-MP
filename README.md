@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning back-end development
 - Ask me about Front-end Development
 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-<!---
-Madhusree-MP/Madhusree-MP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[instagram]: https://instagram.com/madhusreemp
+[linkedin]: https://linkedin.com/in/madhusreemp
