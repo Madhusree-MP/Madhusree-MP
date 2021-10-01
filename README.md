@@ -8,5 +8,5 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[instagram]: https://instagram.com/madhusreemp
+[instagram]: https://instagram.com/madhusree.m.p
 [linkedin]: https://linkedin.com/in/madhusreemp
