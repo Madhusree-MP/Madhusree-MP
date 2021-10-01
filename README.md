@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Madhusree M P
+- ### 👋 Hi, I’m Madhusree
+
+- ## I'm a Developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning back-end development
-- 💞️ I’m looking to collaborate on projects based on front-end development
+- Ask me about Front-end Development
 
 
 <!---
